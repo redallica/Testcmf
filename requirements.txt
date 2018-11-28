@@ -1,3 +1,5 @@
-talib.py
-ccxt.py
-smtplib.py
+numpy
+pandas
+talib
+ccxt
+smtplib
